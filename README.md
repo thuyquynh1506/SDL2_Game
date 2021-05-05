@@ -1,7 +1,4 @@
 # SDL2_Game
-*Lớp: INT2215_1
-*Khóa: K65-UET-VNU
-
 1. Hướng dẫn cài đặt
 * Link hướng dẫn cài đặt và chạy demo game: http://www.youtube.com/watch?v=Y88k8PPJm7Y
 * Các thư viện SDL2 đã dùng
