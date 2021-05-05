@@ -3,6 +3,8 @@
 *Khóa: K65-UET-VNU
 
 1. Hướng dẫn cài đặt
+* Link hướng dẫn cài đặt và chạy demo game: http://www.youtube.com/watch?v=Y88k8PPJm7Y
+* Các thư viện SDL2 đã dùng
 	- SDL2:[https://www.libsdl.org/download-2.0.php] (Thư viện chung của SDL2)
 	- SDL2_image:[https://www.libsdl.org/projects/SDL_image/] (Thư viện tải hình ảnh và đồ họa)
 	- SDL2_ttf:[https://www.libsdl.org/projects/SDL_ttf/] (Thư viện tải font chữ cho text)
@@ -35,6 +37,5 @@ khác 0 thì dừng lại (xử lý va chạm)
 * Cách điểu khiển các phím
 	- Sử dụng các phím mũi tên trái, phải để điều chỉnh khối, mũi tên hướng lên để xoay khối và mũi tên hướng xuống để đưa khối rơi xuống nhanh hơn, phím Space để khối rơi xuống vị trí tối đa ngay lập tức
 	- Khi khối vừa rơi xuống vị trí tối đa, người chơi có thể ngay lập tức điều chỉnh sang trái hoặc phải, với điều kiện là nơi đẩy khối vào vẫn còn chỗ trống
- 4. Chạy demo game:
- Link: 
+
 	
