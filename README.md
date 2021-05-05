@@ -25,18 +25,16 @@ khác 0 thì dừng lại (xử lý va chạm)
 
 3. Cách chơi game
 * Luật chơi
-- Các khối được sinh ra ngẫu nhiên và rơi xuống đến vị trí tối đa.(tốc độ rơi nhanh hay chậm tùy thuộc vào level, level càng cao thì tốc độ càng nhanh)
-- Nhiệm vụ của người chơi là di chuyển khối sang trái, phải hoặc xoay khối theo các góc 0 độ, 90 độ, 180 độ, 270 độ để khối hình rơi vào vị trí tốt nhất, với mục đích lấp đầy 
-các hàng, khi đó các hàng đã được lấp đầy sẽ biến mất và điểm sẽ được cộng.
-- Công thức tính điểm: 
- 	+ Số hàng biến mất = 1 => + 100;
-	+ Số hàng biến mất >=2 => + (số hàng biến mất * 115);
-- Game sẽ kết thúc khi có khối chạm nóc
-- Trong quá trình chơi, người chơi có thể click chuột vào pause để tạm dừng game, sau đó có thể chọn replay để bắt đầu lại, continue để tiếp tục hoặc home để quay trở lại menu.
+	- Các khối được sinh ra ngẫu nhiên và rơi xuống đến vị trí tối đa.(tốc độ rơi nhanh hay chậm tùy thuộc vào level, level càng cao thì tốc độ càng nhanh)
+	- Nhiệm vụ của người chơi là di chuyển khối sang trái, phải hoặc xoay khối theo các góc 0 độ, 90 độ, 180 độ, 270 độ để khối hình rơi vào vị trí tốt nhất, với mục đích lấp đầy các hàng, khi đó các hàng đã được lấp đầy sẽ biến mất và điểm sẽ được cộng.
+	- Công thức tính điểm: 
+ 		+ Số hàng biến mất = 1 => + 100;
+		+ Số hàng biến mất >=2 => + (số hàng biến mất * 115);
+	- Game sẽ kết thúc khi có khối chạm nóc
+	- Trong quá trình chơi, người chơi có thể click chuột vào pause để tạm dừng game, sau đó có thể chọn replay để bắt đầu lại, continue để tiếp tục hoặc home để quay trở lại menu.
 * Cách điểu khiển các phím
-- Sử dụng các phím mũi tên trái, phải để điều chỉnh khối, mũi tên hướng lên để xoay khối và mũi tên hướng xuống để đưa khối rơi xuống nhanh hơn, phím Space để khối rơi xuống vị 
-trí tối đa ngay lập tức
-- Khi khối vừa rơi xuống vị trí tối đa, người chơi có thể ngay lập tức điều chỉnh sang trái hoặc phải, với điều kiện là nơi đẩy khối vào vẫn còn chỗ trống
+	- Sử dụng các phím mũi tên trái, phải để điều chỉnh khối, mũi tên hướng lên để xoay khối và mũi tên hướng xuống để đưa khối rơi xuống nhanh hơn, phím Space để khối rơi xuống vị trí tối đa ngay lập tức
+	- Khi khối vừa rơi xuống vị trí tối đa, người chơi có thể ngay lập tức điều chỉnh sang trái hoặc phải, với điều kiện là nơi đẩy khối vào vẫn còn chỗ trống
  4. Chạy demo game:
  Link: 
 	
